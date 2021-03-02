@@ -9,8 +9,8 @@
 using namespace std;
 
 // 链接库
-#pragma comment (lib, "thostmduserapi.lib")
-#pragma comment (lib, "thosttraderapi.lib")
+#pragma comment (lib, "thostmduserapi_se.lib")
+#pragma comment (lib, "thosttraderapi_se.lib")
 
 // ---- 全局变量 ---- //
 // 公共参数
